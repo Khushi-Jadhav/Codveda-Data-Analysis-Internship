@@ -57,9 +57,9 @@ The internship focused on applying core data analytics techniques across various
 ## 📂 Folder Structure
 
 Each folder contains:
-- Python scripts
+- Jupyter Notebooks or Python scripts
 - Input datasets 
-- Visualization 
+- Visualization & result explanations
 - Screenshots for reference
 
 ---
